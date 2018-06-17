@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\murach\\android\\ex_starts\\ch03_ex1_Invoice\\ch03_ex1_Invoice\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\murach\\android\\ex_starts\\ch03_ex1_Invoice\\ch03_ex1_Invoice\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "77",
+                        "endOffsets": "92"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "629",
+                        "endColumns": "76",
+                        "endOffsets": "701"
+                    }
+                },
+                {
+                    "source": "C:\\murach\\android\\ex_starts\\ch03_ex1_Invoice\\ch03_ex1_Invoice\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,14,9,13,8,4,12,7,5,15,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "59,572,363,522,294,111,483,241,163,623,430",
+                        "endColumns": "50,49,65,48,67,50,37,51,70,39,45",
+                        "endOffsets": "105,617,424,566,357,157,516,288,229,658,471"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,156,222,271,339,390,420,472,543,583",
+                        "endColumns": "50,49,65,48,67,50,29,51,70,39,45",
+                        "endOffsets": "101,151,217,266,334,385,415,467,538,578,624"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\murach\\android\\ex_starts\\ch03_ex1_Invoice\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\murach\\android\\ex_starts\\ch03_ex1_Invoice\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3,14,9,13,8,4,12,7,5,15,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "59,572,363,522,294,111,483,241,163,623,430",
+                        "endColumns": "50,49,65,48,67,50,37,51,70,39,45",
+                        "endOffsets": "105,617,424,566,357,157,516,288,229,658,471"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,106,156,222,271,339,390,420,472,543,583",
+                        "endColumns": "50,49,65,48,67,50,29,51,70,39,45",
+                        "endOffsets": "101,151,217,266,334,385,415,467,538,578,624"
+                    }
+                },
+                {
+                    "source": "C:\\murach\\android\\ex_starts\\ch03_ex1_Invoice\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "77",
+                        "endOffsets": "92"
+                    },
+                    "to": {
+                        "startLines": "13",
+                        "startColumns": "4",
+                        "startOffsets": "629",
+                        "endColumns": "76",
+                        "endOffsets": "701"
+                    }
+                }
+            ]
+        }
+    ]
+}
